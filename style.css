@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    background-image: linear-gradient(to left top, #f9f871, #ffd76f, #ffb783, #ffa0a0, #ff94ba, #ec8cc4, #d587cc, #b884d3, #9a7bce, #7873c8, #506bc0, #0063b6);
+   
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Bree Serif', serif;
+    color: white;
+    font-weight: 100;
+  }
+  
+  img{
+    width: 40px;
+    height: 40px;
+   
+    
+  }
+  .icon{
+    margin: 0px;
+  }
+.connection{
+  color: black;
+  font-size: 24px;
+}
+.link{
+  margin: 50px 4% 0px 3%;
+}
+h2{
+  color: black;
+}
+h1{
+  color: rgb(255, 245, 46);
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color:#ffb783;
+  
+  
+}
+h3{
+  color: rgb(253, 253, 253);
+}
+.name{
+  color: #ffb783;
+  text-decoration: none;
+}
